@@ -1,0 +1,23 @@
+body{
+  background-color: #000;
+  color: #fff;
+}
+
+.inputBox{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #272720;
+}
+.inputBox input{
+  flex: 1;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  padding: 10px;
+}
+
+.btnNormal{
+  padding: 10px;
+}
